@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 0,
+      "name": "Do Laundry",
+      "day": "Monday",
+      "reminder": true
+    },
+    {
+      "id": 1,
+      "name": "Do Grocery",
+      "day": "Tuesday",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "name": "Do Clean Shoes",
+      "day": "Wednesday",
+      "reminder": true
+    },
+    {
+      "name": "Do the math",
+      "day": "Thursday",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
